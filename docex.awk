@@ -2,6 +2,7 @@
 
 ## @desc  Escape the string to be valid JSON string value
 func escape(str) {
+  # \\ \" \/ \n \b \t ...
   return str
 }
 
