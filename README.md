@@ -1,7 +1,7 @@
 Documentation extractor
 ===
 
-_Work in progress_
+_Work in progress..._
 
 It is just about extract documentation strings from code and output them in gron
 format. In scope of the `docex` is only this step. Documentation can be generated
